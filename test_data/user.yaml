@@ -1,0 +1,30 @@
+data01:
+  - "TEST01"
+  - "DSCP"
+  - 20000
+
+data02:
+  - "TEST02"
+  - "DSCPRR"
+  - 20000
+
+data03:
+  - "TEST06"
+  - "DSCPyys"
+  - 20000
+
+data04:
+  - test007
+  - 1
+  - 20000
+
+data05:
+  - test009
+  - 1
+  - 20000
+
+data06:
+  - test111
+  - 1
+  - 2
+  - 20000
